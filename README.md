@@ -10,7 +10,7 @@ Extracts structured recipes from PDFs using RAG architecture with FAISS indexing
 - Dual mode operation (single query/whole PDF processing)
 
 ## Data Samples
-- `sample_recipes.json` (example output)
+- `Recipe_info.json` (example output)
 - `Things mother used to make.pdf` (test input)
 
 ## Setup
