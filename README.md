@@ -11,7 +11,7 @@ Extracts structured recipes from PDFs using RAG architecture with FAISS indexing
 
 ## Data Samples
 - `sample_recipes.json` (example output)
-- `example_recipe_book.pdf` (test input)
+- `Things mother used to make.pdf` (test input)
 
 ## Setup
 1. Install requirements: `pip install -r requirements.txt`
